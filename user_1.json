@@ -1,0 +1,6 @@
+{ 
+	name: "Ivan",
+	age: 35,
+	city: "Moscow",
+	speciality: "Developer"
+}
