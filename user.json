@@ -1,7 +1,7 @@
   {
 	  name: "Yulia",
-	  age: 32,
+	  age: 33,
 	  city: "St. Petersburg",
-	  speciality: "Junior QA"
-
+	  speciality: "Junior QA",
+          book: "Practise guide IoS and Android"
   }
